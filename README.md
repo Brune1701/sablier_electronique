@@ -31,9 +31,11 @@ Le système s'actualise et recommence lorsqu'il est tourné, tel un sablier méc
 
 ## Tests
 
-Le PCB sera soudé puis testé afin de vérifier :
+Le PCB devra être soudé puis testé afin de vérifier :
 - la détection de l'orientation ;
 - le fonctionnement des LEDs ;
 - le décompte de 60 secondes ;
 - le fonctionnement du buzzer ;
 - la recharge de la batterie.
+
+Je n'ai pas pu achever le traçage des pistes malgré les explications d'un professeur du fablab. Ainsi, il me reste des erreurs d'isolations principalement. 
