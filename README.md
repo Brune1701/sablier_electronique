@@ -18,7 +18,7 @@ Le système s'actualise et recommence lorsqu'il est tourné, tel un sablier méc
 
 ## Schéma électronique
 
-![Schéma électronique](images/schema.png)
+![Schéma électronique](schema.png)
 
 ## PCB
 
