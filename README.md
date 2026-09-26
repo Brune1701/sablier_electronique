@@ -22,11 +22,11 @@ Le système s'actualise et recommence lorsqu'il est tourné, tel un sablier méc
 
 ## PCB
 
-![PCB](images/pcb.png)
+![PCB](pcb.png)
 
 ## Vue 3D
 
-![Vue 3D](images/3d.png)
+![Vue 3D](3d.png)
 
 
 ## Tests
