@@ -38,4 +38,5 @@ Le PCB devra être soudé puis testé afin de vérifier :
 - le fonctionnement du buzzer ;
 - la recharge de la batterie.
 
-Je n'ai pas pu achever le traçage des pistes malgré les explications d'un professeur du fablab. Ainsi, il me reste des erreurs d'isolations principalement. 
+Je n'ai pas pu achever le traçage des pistes malgré les explications d'un professeur du fablab. Ainsi, il me reste des erreurs d'isolations principalement :)
+
